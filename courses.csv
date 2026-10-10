@@ -1,0 +1,21 @@
+course_id,title,category,level,description,skills
+1,Python Programming,Programming,Beginner,Learn Python fundamentals,python coding basics
+2,Java Development,Programming,Beginner,Learn Java and OOP,java programming oops
+3,Machine Learning Fundamentals,Artificial Intelligence,Intermediate,Learn machine learning algorithms,machine learning python data
+4,Deep Learning Basics,Artificial Intelligence,Advanced,Explore neural networks,deep learning neural networks
+5,Data Science with Python,Data Science,Intermediate,Analyze datasets,data science python pandas
+6,Data Visualization,Data Science,Beginner,Visualize data using charts,visualization python matplotlib
+7,Web Development,Web Development,Beginner,Build websites,html css javascript
+8,Full Stack Development,Web Development,Advanced,Learn frontend and backend,frontend backend databases
+9,Generative AI,Artificial Intelligence,Advanced,Explore large language models,generative ai llm
+10,SQL and Databases,Database,Beginner,Learn database queries,sql database queries
+11,Cloud Computing,Cloud,Intermediate,Learn cloud platforms,cloud aws deployment
+12,Cybersecurity Fundamentals,Cybersecurity,Beginner,Learn security principles,security networks privacy
+13,Computer Networks,Networking,Intermediate,Understand network protocols,networking protocols internet
+14,UI UX Design,Design,Beginner,Learn interface design,design interface usability
+15,Mobile App Development,App Development,Intermediate,Build mobile applications,mobile android applications
+16,Statistics for Data Science,Data Science,Intermediate,Learn statistics and probability,statistics probability data
+17,Natural Language Processing,Artificial Intelligence,Advanced,Process human language using AI,nlp language ai
+18,Software Testing,Software Development,Beginner,Learn software testing,testing quality assurance
+19,Ethical Hacking,Cybersecurity,Advanced,Explore cybersecurity testing,cybersecurity penetration security
+20,Python for Data Analysis,Data Science,Beginner,Analyze data using Python,python pandas numpy
